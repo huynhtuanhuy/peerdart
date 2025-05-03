@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
-import 'package:peerdart/peerdart.dart';
+import 'package:sb_peerdart/sb_peerdart.dart';
 
 class DataConnectionExample extends StatefulWidget {
   const DataConnectionExample({Key? key}) : super(key: key);

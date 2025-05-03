@@ -1,5 +1,5 @@
 name: sb_peerdart
-version: 0.1.5
+version: 0.2.0
 homepage: https://github.com/huynhtuanhuy/peerdart
 description: Simple peer-to-peer with WebRTC for Dart. PeerJS port for Flutter. (Folk from peerdart)
 repository: https://github.com/huynhtuanhuy/peerdart
@@ -8,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^1.1.0
+  http: ^1.2.2
   uuid: ^4.1.0
   flutter_webrtc: ^0.13.1+hotfix.1
   web_socket_channel: ^3.0.1

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:peerdart/peerdart.dart';
+import 'package:sb_peerdart/sb_peerdart.dart';
 import 'package:flutter_webrtc/flutter_webrtc.dart';
 
 class CallExample extends StatefulWidget {
